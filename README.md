@@ -2,7 +2,7 @@
 # Scalable, Low-Latency LLM QnA
 
 ## Overview
-This project is a **Retrieval-Augmented Generation (RAG) QnA ** built to provide low-latency, scalable question-answering capabilities using various technologies, including **Redis**, **FAISS**, and **Gemini (Google’s LLM)**. It uses **FastAPI**, **Gunicorn**, and **Uvicorn** to handle asynchronous, multi-worker scalable requests and is deployed using **Docker** for easy orchestration.
+This project is a **Retrieval-Augmented Generation (RAG) QnA** built to provide low-latency, scalable question-answering capabilities using various technologies, including **Redis**, **FAISS**, and **Gemini (Google’s LLM)**. It uses **FastAPI**, **Gunicorn**, and **Uvicorn** to handle asynchronous, multi-worker scalable requests and is deployed using **Docker** for easy orchestration.
 
 The assistant intelligently routes queries to the most efficient backend system:
 1. **Redis**: For <1ms cache hits on exact matches.
