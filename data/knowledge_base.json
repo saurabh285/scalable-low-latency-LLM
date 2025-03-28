@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "AI is the simulation of human intelligence by machines."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "ML is a subset of AI that learns patterns from data."
+  },
+  {
+    "question": "What is deep learning?",
+    "answer": "Deep Learning uses neural networks with many layers."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level, interpreted programming language."
+  }
+]

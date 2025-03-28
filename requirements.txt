@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gunicorn
+redis
+faiss-cpu
+sentence-transformers
+python-dotenv
+google-generativeai
+numpy==1.24.4
